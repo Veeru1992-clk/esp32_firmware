@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "firmware_url": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/download/v1.0.1/firmware.bin",
+  "firmware_url": "https://github.com/Veeru1992-clk/esp32_firmware/releases/download/v1.0.1/firmware.bin",
   "release_notes": "Bug fixes and performance improvements"
 }
